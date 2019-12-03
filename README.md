@@ -1,7 +1,8 @@
 Delivery Personnel Project
 
 To Run:
-1-Clone or Download the Zip
+
+1-Download the Zip
 
 2-Extract
 
