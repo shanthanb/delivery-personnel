@@ -7,25 +7,25 @@ const persons=[
     },
     
     {
-        name:"Bala",
+        name:"Uday",
         id:2,
         status:"null"
     },
     
     {
-        name:"Cannan",
+        name:"Karthik",
         id:3,
         status:"null"
     },
     
     {
-        name:"David",
+        name:"Sandeep",
         id:4,
         status:"null"
     },
     
     {
-        name:"Eniyan",
+        name:"Vijay",
         id:5,
         status:"null"
     }
