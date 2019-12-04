@@ -1,7 +1,7 @@
 //The list of persons
 const persons=[
     {
-        name:"Arull",
+        name:"Shanthan",
         id:1,
         status:"null"
     },
